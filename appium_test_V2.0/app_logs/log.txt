@@ -1,0 +1,424 @@
+2020-11-17 15:47:12,073 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 15:47:12,074 - [appiumserver.py-->line:63] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 15:47:35,775 - [appiumserver.py-->line:84] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-17 15:48:22,525 - [run.py-->line:43] - ERROR:界面断言失败了！::>_<:: 
+2020-11-17 16:09:55,394 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 16:09:55,396 - [appiumserver.py-->line:63] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 16:10:09,720 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 16:10:09,723 - [appiumserver.py-->line:63] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 16:35:08,458 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 16:37:15,476 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 16:58:00,944 - [appiumserver.py-->line:32] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 17:34:35,836 - [appiumserver.py-->line:32] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 17:35:04,566 - [appiumserver.py-->line:32] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 17:35:04,570 - [appiumserver.py-->line:64] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 17:40:23,408 - [appiumserver.py-->line:32] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 17:40:23,414 - [appiumserver.py-->line:63] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 17:43:14,754 - [appiumserver.py-->line:32] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 17:43:14,755 - [appiumserver.py-->line:63] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 17:43:38,259 - [appiumserver.py-->line:84] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-17 17:44:24,427 - [run.py-->line:43] - ERROR:界面断言失败了！::>_<:: 
+2020-11-17 19:24:00,377 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 19:24:00,387 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 19:24:25,217 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-17 19:25:52,857 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-17 20:14:07,156 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-17 20:14:07,156 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-17 20:14:31,249 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-17 20:15:57,640 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-18 08:42:09,670 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-18 08:42:09,670 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-18 08:42:32,336 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-18 08:44:01,187 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-19 08:46:14,520 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-19 08:46:14,528 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-19 08:46:38,649 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-19 08:48:05,639 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-19 19:58:34,192 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-19 19:58:34,198 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-19 19:58:58,584 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-19 20:00:27,009 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-20 08:46:19,225 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-20 08:46:19,230 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-20 08:46:41,951 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-20 08:48:09,029 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-20 20:14:21,477 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-20 20:14:21,486 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-20 20:14:46,132 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-20 20:16:14,938 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-23 08:46:33,530 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-23 08:46:33,535 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-23 08:46:56,444 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-23 08:48:24,970 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-24 08:46:38,168 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-24 08:46:38,168 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-24 08:47:02,401 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-24 08:47:13,001 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2020-11-25 08:46:42,932 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-25 08:46:42,943 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-25 08:47:06,929 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-25 08:48:33,665 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-25 19:35:08,096 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-25 19:35:08,113 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-25 19:35:35,218 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-25 19:37:02,627 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-26 08:56:09,108 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-26 08:56:09,121 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-26 08:56:32,091 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-26 08:57:56,356 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-27 08:56:09,015 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-27 08:56:09,026 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-27 08:56:33,954 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-27 08:58:00,924 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-27 19:35:15,316 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-27 19:35:15,325 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-27 19:35:40,265 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-27 19:37:06,869 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-11-30 08:56:19,287 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-11-30 08:56:19,292 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-11-30 08:56:42,310 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-11-30 08:58:08,920 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-01 08:56:32,491 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-01 08:56:32,496 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-01 08:56:57,353 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-01 08:57:09,665 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2020-12-02 08:56:31,459 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-02 08:56:31,470 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-02 08:56:55,610 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-02 08:58:23,063 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-02 20:35:33,103 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-02 20:35:33,112 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-02 20:35:57,954 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-02 20:37:24,462 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-03 08:56:35,235 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-03 08:56:35,249 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-03 08:56:58,084 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-03 08:58:25,091 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-03 20:35:36,439 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-03 20:35:36,448 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-03 20:36:00,932 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-03 20:37:29,115 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-04 08:56:38,336 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-04 08:56:38,348 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-04 08:57:02,666 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-04 08:57:12,855 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2020-12-04 20:35:40,038 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-04 20:35:40,038 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-04 20:36:04,791 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-04 20:37:31,761 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-07 08:56:59,326 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-07 08:56:59,336 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-07 08:57:22,009 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-07 08:58:50,889 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-07 20:36:00,733 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-07 20:36:00,733 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-07 20:36:27,436 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-07 20:37:56,326 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-08 08:56:58,272 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-08 08:56:58,282 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-08 08:57:20,925 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-08 08:58:48,535 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-08 20:36:00,009 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-08 20:36:00,009 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-08 20:36:24,214 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-08 20:37:51,309 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-09 08:57:01,793 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-09 08:57:01,803 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-09 08:57:24,583 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-09 08:58:50,153 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-09 20:35:03,532 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-09 20:35:03,532 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-09 20:35:27,710 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-09 20:36:56,837 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-10 08:56:05,144 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-10 08:56:05,144 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-10 08:56:28,042 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-10 08:57:55,770 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-10 21:35:11,238 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-10 21:35:11,238 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-10 21:35:39,047 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-10 21:37:02,906 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-11 08:51:08,584 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-11 08:51:08,594 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-11 08:51:31,465 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-11 08:52:56,989 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-14 08:52:23,348 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-14 08:52:23,368 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-14 08:52:47,935 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-14 08:53:01,170 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2020-12-14 19:35:02,400 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-14 19:35:02,410 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-14 19:35:26,603 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-14 19:36:52,333 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-15 08:52:03,400 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-15 08:52:03,410 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-15 08:52:25,993 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-15 08:53:52,923 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-15 19:32:04,326 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-15 19:32:04,335 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-15 19:32:29,590 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-15 19:33:56,908 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-16 08:57:05,752 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-16 08:57:05,763 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-16 08:57:28,305 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-16 08:58:52,613 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-16 19:32:06,905 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-16 19:32:06,914 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-16 19:32:31,378 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-16 19:33:58,525 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-17 08:57:08,291 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-17 08:57:08,309 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-17 08:57:32,003 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-17 08:59:00,066 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-17 20:32:09,509 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-17 20:32:09,518 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-17 20:32:34,133 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-17 20:34:02,260 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-18 08:57:16,322 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-18 08:57:16,330 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-18 08:57:44,958 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-18 08:57:55,136 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2020-12-21 08:57:18,097 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-21 08:57:18,107 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-21 08:57:42,559 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-21 08:58:08,876 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2020-12-21 19:32:19,183 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-21 19:32:19,191 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-21 19:32:44,412 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-21 19:34:10,080 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-22 08:57:20,285 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-22 08:57:20,294 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-22 08:57:43,218 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-22 08:59:10,590 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-23 19:32:03,791 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-23 19:32:03,816 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-23 19:32:28,455 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-23 19:33:55,991 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-24 08:57:04,868 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-24 08:57:04,874 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-24 08:57:37,364 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-24 08:59:04,530 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-24 19:35:06,113 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-24 19:35:06,122 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-24 19:35:30,345 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-24 19:36:57,733 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-25 08:57:07,627 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-25 08:57:07,633 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-25 08:57:30,096 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-25 08:58:56,852 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-28 08:57:18,720 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-28 08:57:18,735 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-28 08:57:43,541 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-28 08:59:10,319 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-29 08:46:21,426 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-29 08:46:21,442 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-29 08:46:46,299 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-29 08:47:14,345 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2020-12-29 19:35:22,504 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-29 19:35:22,510 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-29 19:36:07,580 - [appiumserver.py-->line:81] - ERROR:手机连接失败，失败的原因是Message: A new session could not be created. (Original error: Could not find a connected Android device.)
+
+2020-12-29 19:36:17,581 - [run.py-->line:47] - ERROR:打卡失败，原因是'Android' object has no attribute 'driver'
+2020-12-30 08:46:24,057 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-30 08:46:24,068 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-30 08:46:48,526 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-30 08:48:17,176 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2020-12-31 08:46:26,898 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2020-12-31 08:46:26,912 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2020-12-31 08:46:51,682 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2020-12-31 08:47:02,763 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-04 21:28:03,424 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-04 21:28:03,438 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-04 21:28:27,643 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-04 21:29:55,100 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-05 08:50:03,401 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-05 08:50:03,412 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-05 08:50:26,448 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-05 08:51:54,753 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-05 21:28:04,074 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-05 21:28:04,081 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-05 21:28:26,956 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-05 21:29:55,824 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-06 08:50:04,512 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-06 08:50:04,518 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-06 08:50:27,305 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-06 08:51:52,870 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-06 21:14:02,894 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-06 21:14:02,906 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-06 21:14:27,437 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-06 21:15:54,792 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-07 08:50:05,703 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-07 08:50:05,709 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-07 08:50:28,252 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-07 08:51:53,681 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-07 21:14:07,216 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-07 21:14:07,226 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-07 21:14:34,039 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-07 21:16:00,669 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-08 08:50:03,396 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-08 08:50:03,396 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-08 08:50:26,199 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-08 08:51:53,419 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-08 21:14:04,466 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-08 21:14:04,466 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-08 21:14:29,169 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-08 21:15:56,481 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-09 08:50:05,362 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-09 08:50:05,362 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-09 08:50:29,735 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-09 08:50:40,186 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-12 08:50:02,532 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-12 08:50:02,532 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-12 08:50:27,030 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-12 08:51:54,062 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-13 08:50:03,438 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-13 08:50:03,438 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-13 08:50:27,723 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-13 08:51:57,106 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-13 21:04:03,932 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-13 21:04:03,932 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-13 21:04:27,538 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-13 21:05:54,142 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-14 08:49:04,459 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-14 08:49:04,459 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-14 08:49:26,808 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-14 08:50:54,749 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-14 21:04:05,191 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-14 21:04:05,193 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-14 21:04:27,507 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-14 21:05:54,947 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-15 08:49:05,638 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-15 08:49:05,644 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-15 08:49:28,046 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-15 08:50:53,790 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-15 21:04:06,465 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-15 21:04:06,468 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-15 21:04:30,898 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-15 21:04:41,060 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-16 08:49:06,973 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-16 08:49:06,976 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-16 08:49:29,718 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-16 08:50:59,196 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-16 18:04:07,014 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-16 18:04:07,014 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-16 18:04:30,376 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-16 18:05:58,881 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-18 08:48:05,347 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-18 08:48:05,347 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-18 08:48:29,373 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-18 08:48:39,603 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-19 08:48:06,416 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-19 08:48:06,422 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-19 08:48:30,225 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-19 08:49:59,858 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-19 21:04:07,682 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-19 21:04:07,690 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-19 21:04:34,093 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-19 21:06:04,777 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-20 08:54:08,261 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-20 08:54:08,263 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-20 08:54:32,859 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-20 08:55:59,751 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-20 21:04:08,825 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-20 21:04:08,830 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-20 21:04:34,700 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-20 21:06:02,011 - [run.py-->line:41] - INFO:界面断言成功啦！开心~~~
+2021-01-21 08:54:09,133 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-21 08:54:09,140 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-21 08:54:33,099 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-21 08:54:55,370 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-21 20:53:33,383 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-21 20:53:33,396 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-21 20:54:22,700 - [appiumserver.py-->line:81] - ERROR:手机连接失败，失败的原因是Message: A new session could not be created. (Original error: Could not find a connected Android device.)
+
+2021-01-21 20:54:32,701 - [run.py-->line:47] - ERROR:打卡失败，原因是'Android' object has no attribute 'driver'
+2021-01-21 20:55:13,728 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-21 20:55:13,731 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-21 20:55:38,931 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-21 20:56:13,549 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-21 21:04:09,621 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-21 21:04:09,625 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-21 21:04:37,788 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-21 21:05:12,217 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-22 08:54:10,636 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-22 08:54:10,642 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-22 08:54:36,256 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-22 08:55:09,985 - [run.py-->line:47] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-22 20:08:20,654 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-22 20:08:20,664 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-22 20:08:46,302 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-22 20:09:33,921 - [run.py-->line:49] - ERROR:界面断言失败了！::>_<:: 
+2021-01-22 21:04:10,415 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-22 21:04:10,415 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-22 21:04:34,944 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-22 21:06:02,610 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-23 08:54:10,851 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-23 08:54:10,851 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-23 08:54:33,949 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-23 08:55:58,723 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-23 18:04:11,248 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-23 18:04:11,259 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-23 18:04:34,144 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-23 18:05:57,661 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-25 08:54:20,497 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-25 08:54:20,502 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-25 08:54:47,879 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-25 08:56:15,441 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-26 08:54:21,632 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-26 08:54:21,634 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-26 08:54:44,740 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-26 08:56:12,004 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-27 08:54:22,655 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-27 08:54:22,657 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-27 08:54:48,922 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-27 08:56:17,144 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-27 21:04:23,228 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-27 21:04:23,233 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-27 21:05:37,436 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-27 21:07:03,185 - [run.py-->line:49] - ERROR:界面断言失败了！::>_<:: 
+2021-01-28 08:54:23,986 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-28 08:54:23,992 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-28 08:55:33,444 - [appiumserver.py-->line:81] - ERROR:手机连接失败，失败的原因是Message: A new session could not be created.
+
+2021-01-28 08:55:43,447 - [run.py-->line:53] - ERROR:打卡失败，原因是'Android' object has no attribute 'driver'
+2021-01-28 21:04:24,319 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-28 21:04:24,321 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-28 21:04:49,120 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-28 21:06:16,840 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-29 08:54:24,717 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-29 08:54:24,723 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-29 08:54:48,381 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-29 08:56:17,582 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-01-29 21:04:25,496 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-29 21:04:25,500 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-29 21:05:09,863 - [appiumserver.py-->line:81] - ERROR:手机连接失败，失败的原因是Message: A new session could not be created. (Original error: Could not find a connected Android device.)
+
+2021-01-29 21:05:19,865 - [run.py-->line:53] - ERROR:打卡失败，原因是'Android' object has no attribute 'driver'
+2021-01-30 08:54:25,818 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-30 08:54:25,822 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-30 08:54:48,731 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-30 08:55:00,149 - [run.py-->line:53] - ERROR:打卡失败，原因是Message: An element could not be located on the page using the given search parameters.
+
+2021-01-30 18:04:26,183 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-01-30 18:04:26,185 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-01-30 18:04:50,928 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-01-30 18:06:20,165 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~
+2021-02-01 08:54:27,924 - [appiumserver.py-->line:31] - ERROR:端口4723未被占用，可以使用！
+2021-02-01 08:54:27,929 - [appiumserver.py-->line:62] - INFO:appium启动成功，接下来开始连接手机啦！
+2021-02-01 08:54:50,494 - [appiumserver.py-->line:83] - INFO:手机app连接成功，接下来开始操作界面ing
+2021-02-01 08:56:18,308 - [run.py-->line:47] - INFO:界面断言成功啦！开心~~~

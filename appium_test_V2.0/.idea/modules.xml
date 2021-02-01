@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ICE_GATEWAY/.idea/ICE_GATEWAY.iml" filepath="$PROJECT_DIR$/../ICE_GATEWAY/.idea/ICE_GATEWAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/appium_test.iml" filepath="$PROJECT_DIR$/.idea/appium_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dcs/tencent_cms_framework/.idea/tencent_cms_framework.iml" filepath="$PROJECT_DIR$/../dcs/tencent_cms_framework/.idea/tencent_cms_framework.iml" />
+    </modules>
+  </component>
+</project>
